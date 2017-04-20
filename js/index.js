@@ -43,5 +43,5 @@ $('.buttons').on('click', '#equals', function() {
   expression = [];
   // Reset expressionString
   expressionString = "";
-  // console.log(expressionString);
+  // console.log(expressionString); 
 });
